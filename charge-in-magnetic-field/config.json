@@ -1,0 +1,20 @@
+{
+	"MagneticField": {
+		"Value": 0.3,
+		"Direction": "Up",
+		"Width": 255,
+		"Height": 235
+	},
+	"Particle": {
+		"Position": "10 101",
+		"Velocity": "0 200",
+		"Mass": 1,
+		"Charge": 5
+	},
+	"Friction": {
+		"Coefficient": 0.1
+	},
+	"VelocityBound": 1e-3,
+	"TimeDelta": "500us",
+	"RAM": 1000
+}
